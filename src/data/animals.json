@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"bgColor": "red",
+		"image": "images/tiger-background.jpg",
+		"headText": "Lion",
+		"parText": "Lions are the second largest big cats and one of the animals in Africa big enough to bring down big herbivores like elephants and giraffes",
+		"Sound": "Sounds/tiger-roar.flac"
+	},
+	{
+		"id": 2,
+		"bgColor": "yellow",
+		"image": "images/Elephant.jpg",
+		"headText": "Elephant",
+		"parText": "Elephant are the world largest land animal with adult males that can stand up up to 3m and weight 6 ton. Their trunks also habe 150,000 muscle unit ",
+		"Sound": "Sounds/elephant.wav"
+	},
+	{
+		"id": 3,
+		"bgColor": "purple",
+		"image": "images/Dolphin.jpg",
+		"headText": "Dolphin",
+		"parText": "Dolphin is one of the smartest mammal that can be found all over the world and in different environments especially in fresh water ",
+		"Sound": "Sounds/dolphin.wav"
+	},
+	{
+		"id": 4,
+		"bgColor": "orange",
+		"image": "images/Monkey.jpg",
+		"headText": "Monkey",
+		"parText": "Monkey is a primate mammal that have over 264 different species all around the world. They usually eat nuts, fruits, seeds, and flowers, and live on tree. ",
+		"Sound": "Sounds/monkey.wav"
+	},
+	{
+		"id": 5,
+		"bgColor": "pink",
+		"image": "images/Rhino.jpg",
+		"headText": "Rhino",
+		"parText": "There only exist 5 species of Rhino all around the world. Rhinos have poor vision and communicate through Honks, sneezes..,and poo. ",
+		"Sound": "Sounds/rhino.wav"
+	},
+	{
+		"id": 6,
+		"bgColor": "blue",
+		"image": "images/Parrot.jpg",
+		"headText": "Parrot",
+		"parText": "Parrots stand out in the bird world with their lovable and cheeky personalities. They are famous for their ability to imitate sound to fit their surroundings. ",
+		"Sound": "Sounds/Parrot.wav"
+	}
+]
